@@ -20,6 +20,7 @@ cd pharma-sales-dashboard`
 2. Install the required packages:
 `pip install -r requirements.txt`
 3. If you want to use your data, place your sales data CSV file (transactional, unpivotted) in the data/ directory and name it sales_augmented_final.csv. Place your logo image in the root directory and name it logo.png.
+4. Run `streamlit run app.py`
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
