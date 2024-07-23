@@ -1,4 +1,4 @@
-# Pharma Sales Interactive Dashboard 
+# Pharma Sales Interactive Dashboard 💊
 This repository contains a Streamlit-based interactive dashboard for visualizing pharmaceutical sales data. 
 
 It includes various filters and visualizations to explore sales trends, geographical distribution, and key performance indicators (KPIs).
