@@ -4,8 +4,8 @@ This repository contains a Streamlit-based interactive dashboard for visualizing
 It includes various filters and visualizations to explore sales trends, geographical distribution, and key performance indicators (KPIs).
 
 ## Features
-Product Selection: Filter data based on specific products.
-Date Range Selection: Adjust the date range to visualize sales within a specific period.
+- Product Selection: Filter data based on specific products.
+- Date Range Selection: Adjust the date range to visualize sales within a specific period.
 KPIs: Display total units sold, total profit, and total margin.
 Map Visualization: View total units sold per city on an interactive map of Italy.
 Line Chart: Analyze price, cost, and margin over time.
